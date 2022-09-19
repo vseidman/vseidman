@@ -8,7 +8,7 @@ I've been coding for over 6 month now, focusing on Javascript and React. I recen
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   ✉️  You can contact me at [victorseidman@gmail.com](mailto:victorseidman@gmail.com)
-*   🧠  I'm learning React, redux and frontend languages 
+*   🧠  I'm learning React and frontend languages 
 *   🤝  I'm open to collaborating on any cool frontend project
 
 ### Skills
