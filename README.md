@@ -4,12 +4,12 @@ Hi my name is Victor Seidman
 Frontend Web Developer :computer:
 ----------------------
 
-I've been coding for over 6 month now, focusing on Javascript and React. I recently graduated from 4geeks Fullstack Bootcamp and i am currently looking for a job or to collaborate on a project to increase my knowledge and experience.
+I've been coding for a while now, focusing on Javascript and React. I graduated from 4geeks Fullstack Bootcamp and I am currently looking for a job or to collaborate on a project to increase my knowledge and experience.
 
 *   🌍  I'm based in Buenos Aires, Argentina
 *   ✉️  You can contact me at [victorseidman@gmail.com](mailto:victorseidman@gmail.com)
 *   🧠  I'm learning React and frontend languages 
-*   🤝  I'm open to collaborating on any cool frontend project
+*   🤝  I'm open to collaborate on any cool frontend project
 
 ### Skills
 <p align="left">
